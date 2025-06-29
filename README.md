@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niharika1008
 - 👀 I’m interested in building web applications by using frontend(HTML,CSS,JAVASCRIPT) ,frame works like BOOTSTRAP and backend technologies
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to internships in FAANG companies and coding challenges 
+- 💞️ I’m looking for internships in FAANG companies and coding challenges 
 - 📫 Reach me through email niharikachunchu10@gmail.com or through linkedin - https://www.linkedin.com/in/niharika-chunchu
 - ⚡ Fun fact: im medical/science background student in academics
 - 
