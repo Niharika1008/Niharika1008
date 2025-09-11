@@ -8,6 +8,7 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
 - 💻 I’m a passionate **developer transitioning from MBA into Software Development**. 
 - 🌱 Currently learning **MERN Stack,System Design & AI-powered apps**.
 - 🔭 Interested in building products that solve real-world problems**.
+- 🌐 Reach me at [Portfolio Website](https://niharika1008.github.io/Portfolio/)
 - 💡 My goal is to land an **SDE role or internship** where I can contribute, learn, and grow.  
 
 📄 [View My Resume](https://drive.google.com/file/d/1vY5KGV3GLXxU2UCu2ok_8Ts-kSAbFOEy/view?usp=sharing)
