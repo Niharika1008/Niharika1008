@@ -13,6 +13,23 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
 📄 [View My Resume](https://drive.google.com/file/d/1vY5KGV3GLXxU2UCu2ok_8Ts-kSAbFOEy/view?usp=sharing)
 
 
+## ☕ Let’s Connect 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/niharika-chunchu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Niharika1008/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:niharikachunchu10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/NiharikaChunchu" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
@@ -81,24 +98,6 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
 - 🏠 **Hostel Grievance Redressal System**  
   A web-based system to log, track, and resolve hostel-related issues for students, ensuring transparency and faster resolution.  
   *Tech stack: React, Node.js, Express, MongoDB*  
-
-
-## ☕ Let’s Connect 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/niharika-chunchu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Niharika1008/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:niharikachunchu10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/NiharikaChunchu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
 
 
 ## ☕ Support Me
