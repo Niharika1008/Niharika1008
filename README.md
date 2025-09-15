@@ -14,6 +14,9 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
 📄 [View My Resume](https://drive.google.com/file/d/1vY5KGV3GLXxU2UCu2ok_8Ts-kSAbFOEy/view?usp=sharing)
 
 
+![👀 Profile Views](https://komarev.com/ghpvc/?username=Niharika1008&label=Profile%20views&color=ff69b4&style=for-the-badge)  
+
+
 ## ☕ Let’s Connect 
 
 <p align="left">
@@ -84,9 +87,13 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
 
 ## 📈 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika1008&layout=compact&theme=radical)  
+![💡 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika1008&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niharika1008&theme=radical)  
+![🔥 Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Niharika1008&theme=radical&hide_border=true)
+
+  
+![📈 GitHub stats](https://github-readme-stats.vercel.app/api?username=Niharika1008&show_icons=true&theme=radical)  
+ 
 
 ---
 
@@ -101,7 +108,7 @@ A passionate **Frontend Developer | Python Developer | MERN Stack | Aspiring SDE
   *Tech stack: React, Node.js, Express, MongoDB*  
 
 
-## ☕ Support Me
+## 🤝 Support Me
  ⭐ If you find my work interesting, feel free to star some repos — it keeps me motivated!  
 
 
